@@ -95,7 +95,7 @@ To install and run SpiderFoot, you need at least Python 3.7 and a number of Pyth
 #### Stable build (packaged release):
 
 ```
- wget https://github.com/smicallef/spiderfoot/archive/v4.0.tar.gz
+ wget https://github.com/jponchain/spiderfoot/archive/v4.0.tar.gz
  tar zxvf v4.0.tar.gz
  cd spiderfoot-4.0
  pip install lxml
@@ -106,7 +106,7 @@ To install and run SpiderFoot, you need at least Python 3.7 and a number of Pyth
 #### Development build (cloning git master branch):
 
 ```
- git clone https://github.com/smicallef/spiderfoot.git
+ git clone https://github.com/jponchain/spiderfoot.git
  cd spiderfoot
  pip install lxml
  pip3 install -r requirements.txt
